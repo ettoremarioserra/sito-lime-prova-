@@ -1,0 +1,80 @@
+body {
+    background-image: url("sfondo.jpg");
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+  background-position: top;             /* optional, center the image */
+}
+.container{
+width: 450px;
+  margin:auto;
+  color: lime;
+
+}
+
+.logo{
+  width: 350px;
+padding: 80px;
+
+
+}
+.text-log{
+  font-size: 25px;
+  color: 	#00FF00
+  text-align: center;
+
+
+}
+.menu{
+  background-color: lime;
+  padding:10px;
+  text-align:center;
+  width: 700px;
+  padding-right: 100px;
+max-width: 700px;
+max-height: 600px;
+margin-right: 200px;
+margin-left: 600px
+
+
+}
+.bottone{
+  text-align: center;
+}
+.scritta{
+  color: #FFFFFF;
+ font-size: 25px;
+ margin-left: 600px;
+
+}
+.info{
+  color: #FFFFFF;
+  margin-left: 600px;
+  font-size: 20px;
+}
+.orange{
+  border-radius: 1px solid #FFA500;
+   padding-bottom: 20px;
+   margin-bottom: : 20px;
+   background-color:#FFA500;
+   margin-left: 600px;
+   margin-right: 700px;
+
+ }
+
+.green{
+  border-bottom: 1px solid 	#00FF00;
+   padding-bottom: 20px;
+   margin-bottom: 20px;
+   background-color:	#00FF00;
+   margin-left: 600px;
+   margin-right: 200px;
+}
+
+.red{
+  border-bottom: 1px solid 	#FF0000;
+   padding-bottom: 20px;
+   margin-bottom: 20px;
+   background-color:	#FF0000;
+   margin-left: 600px;
+   margin-right: 1190px;
+}
